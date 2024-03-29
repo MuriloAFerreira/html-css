@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body{
+    background-color:#011526 ;
+    margin: 0px;
+}
+#perfil{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+#top{
+    font-family: 'Courier New', Courier, monospace;
+    color: #011526;
+    text-align: center;
+}
+header{
+    background-color: #91BBF2;
+    text-align: center;
+   
+}
+nav{
+    background-color:#91BBF2 ; 
+   
+}
+nav >a {
+    color: white;
+    text-shadow: #011526;
+    margin-right: 80px;
+}
+
+#rodape{
+    color: black;
+    background-color:#91BBF2;
+    text-align: center;
+    margin-top: 1000px;
+    margin-bottom: 0px;
+    height: 20px;
+  
+}
